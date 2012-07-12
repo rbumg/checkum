@@ -1,0 +1,12 @@
+// Checkum //
+Integrity is crucial
+
+- What is Checkum?
+Checkum is a python project that is used to verify the md5checksum of a given file. 
+
+- How do I use it?
+Simply run the following command from the command-line: 
+
+    checkum.py FILENAME
+
+Be sure to substitute FILENAME for the name of your file.  For files outside of the same directory, please enter the full path along with the file name.
